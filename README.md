@@ -36,4 +36,39 @@ PetsNagüa es una aplicación de escritorio creada como mini proyecto académico
 -│ ├── facturas/ 
 -│ └── historial/ 
 -├── database/ 
--│ └── petsnagüa.sql```
+-│ └── petsnagüa.sql
+
+
+
+# 🐾 PetsNagüa – Mini Project for Pet Store Management
+
+**Developed by Marian Castillo**
+
+PetsNagüa is a desktop application created as an academic mini project. Its goal is to simplify purchase management in pet stores through an intuitive interface and essential features such as client registration, product management, invoicing, and purchase history visualization.
+
+---
+
+## 📌 Key Features
+
+- 🔐 **Cashier login** with credential validation  
+- 🧍 **Client registration** with ID verification  
+- 📦 **Product management** linked to suppliers  
+- 🧾 **Invoice generation** with payment method, date, and time  
+- 📊 **Purchase history** with client-based filters  
+- 🎨 **User-friendly interface** with creative feedback
+
+---
+
+## 🛠️ Technologies Used
+
+- **Language:** Java  
+- **GUI:** Swing  
+- **Database:** MySQL  
+- **Connection:** JDBC (PreparedStatement)  
+- **Modular design:** Classes separated by functionality
+
+---
+
+## 🧩 Project Structure
+
+
