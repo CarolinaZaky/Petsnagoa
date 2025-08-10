@@ -28,14 +28,12 @@ PetsNagüa es una aplicación de escritorio creada como mini proyecto académico
 ---
 
 ## 🧩 Estructura del proyecto
-PetsNagüa/ 
-├── src/ 
-│ ├── login/ 
-│ ├── clientes/ 
-│ ├── productos/ 
-│ ├── facturas/ 
-│ └── historial/ 
-├── database/ 
-│ └── petsnagüa.sql
-## 🧩 Estructura del proyecto
-
+-PetsNagüa/ 
+-├── src/ 
+-│ ├── login/ 
+-│ ├── clientes/ 
+-│ ├── productos/ 
+-│ ├── facturas/ 
+-│ └── historial/ 
+-├── database/ 
+-│ └── petsnagüa.sql
