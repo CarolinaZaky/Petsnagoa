@@ -1,8 +1,8 @@
-# 🐾 PetsNagüa – Mini Proyecto de Gestión para Tiendas de Mascotas
+# 🐾 Petsnagoa – Mini Proyecto de Gestión para Tiendas de Mascotas
 
 **Desarrollado por Marian Castillo**
 
-PetsNagüa es una aplicación de escritorio creada como mini proyecto académico. Su objetivo es facilitar la gestión de compras en tiendas de mascotas mediante una interfaz intuitiva y funcionalidades esenciales como registro de clientes, productos, facturación y visualización de historial.
+Petsnagoa es una aplicación de escritorio creada como mini proyecto académico. Su objetivo es facilitar la gestión de compras en tiendas de mascotas mediante una interfaz intuitiva y funcionalidades esenciales como registro de clientes, productos, facturación y visualización de historial.
 
 ---
 
@@ -29,7 +29,7 @@ PetsNagüa es una aplicación de escritorio creada como mini proyecto académico
 
 ## 🧩 Estructura del proyecto
 ```
--PetsNagüa/ 
+-Petsnagoa/ 
 -├── src/ 
 -│ ├── login/ 
 -│ ├── clientes/ 
@@ -37,15 +37,15 @@ PetsNagüa es una aplicación de escritorio creada como mini proyecto académico
 -│ ├── facturas/ 
 -│ └── historial/ 
 -├── database/ 
--│ └── petsnagüa.sql
+-│ └── petsnagoa.sql
 
 ```
 
-## 🐾 PetsNagüa – Mini Project for Pet Store Management
+## 🐾 Petsnagoa – Mini Project for Pet Store Management
 
 **Developed by Marian Castillo**
 
-PetsNagüa is a desktop application created as an academic mini project. Its goal is to simplify purchase management in pet stores through an intuitive interface and essential features such as client registration, product management, invoicing, and purchase history visualization.
+Petsnagoa is a desktop application created as an academic mini project. Its goal is to simplify purchase management in pet stores through an intuitive interface and essential features such as client registration, product management, invoicing, and purchase history visualization.
 
 ---
 
@@ -73,7 +73,7 @@ PetsNagüa is a desktop application created as an academic mini project. Its goa
 ## 🧩 Project Structure
 
 ```
--PetsNagüa/ 
+-Petsnagoa/ 
 -├── src/ 
 -│ ├── login/ 
 -│ ├── clientes/ 
@@ -81,6 +81,6 @@ PetsNagüa is a desktop application created as an academic mini project. Its goa
 -│ ├── facturas/ 
 -│ └── historial/ 
 -├── database/ 
--│ └── petsnagüa.sql
+-│ └── petsnagoa.sql
 
 ```
