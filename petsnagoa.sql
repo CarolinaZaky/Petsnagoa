@@ -39,11 +39,11 @@ CREATE TABLE proveedor (
 );
 
 -- agregamos proveedores
-insert into proveedor(nif,nombre_proveedor,correo_proveedor,telefono_proveedor,direccion_proveedor) values ('781346','Paola','paola@gmail.com','0412578983','Av.universidad');
-insert into proveedor(nif,nombre_proveedor,correo_proveedor,telefono_proveedor,direccion_proveedor) values ('7122902','Pablo','pablovillegas@gmail.com','04124588779','Av.penme');
-insert into proveedor(nif,nombre_proveedor,correo_proveedor,telefono_proveedor,direccion_proveedor) values ('18978612','Carla','carla15@gmail.com','041255643','Av.universidad');
-insert into proveedor(nif,nombre_proveedor,correo_proveedor,telefono_proveedor,direccion_proveedor) values ('6123987','ComesticosP','tupuntocosmetics@gmail.com','04249615478','Calle.Guajira');
-insert into proveedor(nif,nombre_proveedor,correo_proveedor,telefono_proveedor,direccion_proveedor) values ('10645159','Mariospets','mascotatuvida@gmail.com','0412578983','Mañongo');
+insert into proveedor(nif,nombre_proveedor,correo_proveedor,telefono_proveedor,direccion_proveedor) values ('781346','Paola','paola@gmail.com','041983','Av.universidad');
+insert into proveedor(nif,nombre_proveedor,correo_proveedor,telefono_proveedor,direccion_proveedor) values ('71902','Pablo','pablovillegas@gmail.com','04588779','Av.penme');
+insert into proveedor(nif,nombre_proveedor,correo_proveedor,telefono_proveedor,direccion_proveedor) values ('1812','Carla','carla15@gmail.com','0415643','Av.universidad');
+insert into proveedor(nif,nombre_proveedor,correo_proveedor,telefono_proveedor,direccion_proveedor) values ('617','ComesticosP','tupuntocosmetics@gmail.com','0425478','Calle.Guajira');
+insert into proveedor(nif,nombre_proveedor,correo_proveedor,telefono_proveedor,direccion_proveedor) values ('106159','Mariospets','mascotatuvida@gmail.com','0412983','Mañongo');
 
 -- selecionamos la tabla para ver si se agrego con exito
 select * from proveedor;
